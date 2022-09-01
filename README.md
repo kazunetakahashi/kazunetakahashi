@@ -1,16 +1,24 @@
-### Hi there 👋
+# Kazune Takahashi
 
-<!--
-**kazunetakahashi/kazunetakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Kazune Takahashi**.
 
-Here are some ideas to get you started:
+I am a researcher on various topics related to mathematics, informatics and finance. For details as a profession, please see [my CV on researchmap](https://researchmap.jp/kazunetakahashi?lang=en).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Achievements
+
+- World championship record holder on brain training ([Photographic Memory 30.13 sec](https://twitter.com/kazunetakahashi/status/1537757084275511296): Dr Kawashima's Brain Training for Nintendo Switch).
+- First acceptance for the most difficult problem ever in AtCoder ([E - e: World Tour Finals 2019 Open Contest](https://atcoder.jp/contests/wtf19-open/submissions?f.LanguageName=&f.Status=AC&f.Task=wtf19_e&f.User=&orderBy=created)).
+- 1st place in a domestic programming contest (Code Runner 2015 Final Round). Winning a prize in an international programming contest (SamurAI Coding 2014-15 World Final).
+
+## Selected Certifications
+
+- 1st Grade, The Official Business Skill Test in Bookkeeping.
+- Expert, Practical Algorithm Skill Test. Highest S-rank (1-dan) in AtCoder.
+
+## Interests
+
+Playing video games. Watching anime. Reading newspapers. Practicing English.
+
+## Icon
+
+My current SNS icon is Abigail Williams (a.k.a. Abby-chan) in "Fate/Grand Order", painted by [SAIPACo.-san](https://skeb.jp/@saipaco/works/5), based on the [official guideline](https://www.fate-go.jp/guidelines/).
