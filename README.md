@@ -6,8 +6,8 @@ I am a researcher on various topics related to mathematics, informatics and fina
 
 ## Selected Achievements
 
-- 1st place in Brain Training World Championships [for 7 times](https://twitter.com/kazunetakahashi/likes) (Photographic Memory: Dr Kawashima's Brain Training for Nintendo Switch).
-- First acceptance for the most difficult problem ever in AtCoder ([E - e: World Tour Finals 2019 Open Contest](https://atcoder.jp/contests/wtf19-open/submissions?f.LanguageName=&f.Status=AC&f.Task=wtf19_e&f.User=&orderBy=created)).
+- 1st place in Brain Training World Championships for 8 times (Photographic Memory: Dr Kawashima's Brain Training for Nintendo Switch). Videos are in [my likes on Twitter](https://twitter.com/kazunetakahashi/likes).
+- First acceptance for the most difficult problem ever in AtCoder ([E - e: World Tour Finals 2019 Open Contest](https://atcoder.jp/contests/wtf19-open/submissions?f.LanguageName=&f.Status=AC&f.Task=wtf19_e&f.User=&lang=en&orderBy=created)).
 - 1st place in a domestic programming contest (Code Runner 2015 Final Round). Winning a prize in an international programming contest (SamurAI Coding 2014-15 World Final).
 
 ## Selected Certifications
