@@ -4,6 +4,8 @@ My name is **Kazune Takahashi**.
 
 I am a researcher focusing on various mathematics, informatics, and finance topics. For more details about my professional background, please refer to [my CV on researchmap](https://researchmap.jp/kazunetakahashi?lang=en).
 
+- [補足: SNS からいらっしゃた方へ](sns.md)
+
 ## Selected Achievements
 
 - 1st place in the Brain Training World Championships nine times (Photographic Memory: Dr. Kawashima's Brain Training for Nintendo Switch). You can find [videos on my X (Twitter) likes](https://twitter.com/kazunetakahashi/likes).
