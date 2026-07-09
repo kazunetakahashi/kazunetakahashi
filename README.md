@@ -8,7 +8,7 @@ I am a researcher focusing on topics across mathematics, informatics, and financ
 
 ## Selected Achievements
 
-- 1st place in the Brain Training World Championships eleven times (Photographic Memory: Dr. Kawashima's Brain Training for Nintendo Switch).
+- 1st place in the Brain Training World Championships eleven times (Photographic Memory: Dr. Kawashima's Brain Training for Nintendo Switch; e.g., [video of my 10th win](https://youtube.com/shorts/0qtlrlZVgbs?si=S6NsRHWGeXAefTgO)).
 - Submitted the first accepted solution to one of the most challenging problems in AtCoder history ([Problem E: e, World Tour Finals 2019 Open Contest](https://atcoder.jp/contests/wtf19-open/submissions?f.LanguageName=&f.Status=AC&f.Task=wtf19_e&f.User=&lang=en&orderBy=created)).
 - 1st place in a domestic programming contest (Code Runner 2015 Final Round) and won a prize at an international programming contest (SamurAI Coding 2014-15 World Final).
 
